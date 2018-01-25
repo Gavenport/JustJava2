@@ -1,0 +1,3 @@
+# JustJava2
+trying to upload my first project...
+This is a lesson on googles beginner course for android on Udacity and not finished yet
