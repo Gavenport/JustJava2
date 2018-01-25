@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantityText">Quantity</string>
+    <string name="orderButtonText">Order</string>
+</resources>
